@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <project>
+      <id>79117</id>
+      <name>ProjetM1</name>
+      <bugtracker></bugtracker>
+      <created>2023-11-27 13:44:45.157941+00:00</created>
+      <updated>2023-11-27 14:12:57.426590+00:00</updated>
+      <tasks>
+        <task>
+          <id>391864</id>
+          <name>human_pose_detection_001</name>
+          <size>1</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2023-11-27 13:46:14.254192+00:00</created>
+          <updated>2023-11-27 13:57:28.279507+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>0</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>431712</id>
+              <start>0</start>
+              <stop>0</stop>
+              <url>https://app.cvat.ai/api/jobs/431309</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>boquainmathis</username>
+            <email>boquainmathis@gmail.com</email>
+          </owner>
+          <assignee></assignee>
+        </task>
+        <task>
+          <id>391902</id>
+          <name>human_pose_detection_002</name>
+          <size>1</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2023-11-27 13:58:13.538171+00:00</created>
+          <updated>2023-11-27 14:04:17.464732+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>0</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>431748</id>
+              <start>0</start>
+              <stop>0</stop>
+              <url>https://app.cvat.ai/api/jobs/431345</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>boquainmathis</username>
+            <email>boquainmathis@gmail.com</email>
+          </owner>
+          <assignee></assignee>
+        </task>
+        <task>
+          <id>391904</id>
+          <name>human_pose_detection_003</name>
+          <size>1</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2023-11-27 13:58:43.212307+00:00</created>
+          <updated>2023-11-27 14:06:07.938142+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>0</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>431749</id>
+              <start>0</start>
+              <stop>0</stop>
+              <url>https://app.cvat.ai/api/jobs/431346</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>boquainmathis</username>
+            <email>boquainmathis@gmail.com</email>
+          </owner>
+          <assignee></assignee>
+        </task>
+        <task>
+          <id>391908</id>
+          <name>human_pose_detection_004</name>
+          <size>1</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2023-11-27 13:59:30.120334+00:00</created>
+          <updated>2023-11-27 14:10:05.576068+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>0</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>431753</id>
+              <start>0</start>
+              <stop>0</stop>
+              <url>https://app.cvat.ai/api/jobs/431350</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>boquainmathis</username>
+            <email>boquainmathis@gmail.com</email>
+          </owner>
+          <assignee></assignee>
+        </task>
+        <task>
+          <id>391910</id>
+          <name>human_pose_detection_005</name>
+          <size>1</size>
+          <mode>annotation</mode>
+          <overlap>0</overlap>
+          <bugtracker></bugtracker>
+          <created>2023-11-27 14:00:03.458239+00:00</created>
+          <updated>2023-11-27 14:12:58.146068+00:00</updated>
+          <subset>default</subset>
+          <start_frame>0</start_frame>
+          <stop_frame>0</stop_frame>
+          <frame_filter></frame_filter>
+          <segments>
+            <segment>
+              <id>431755</id>
+              <start>0</start>
+              <stop>0</stop>
+              <url>https://app.cvat.ai/api/jobs/431352</url>
+            </segment>
+          </segments>
+          <owner>
+            <username>boquainmathis</username>
+            <email>boquainmathis@gmail.com</email>
+          </owner>
+          <assignee></assignee>
+        </task>
+      </tasks>
+      <subsets>default</subsets>
+      <owner>
+        <username>boquainmathis</username>
+        <email>boquainmathis@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>Human</name>
+          <color>#c080e0</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </project>
+    <dumped>2023-11-27 14:28:08.847636+00:00</dumped>
+  </meta>
+  <image id="0" name="frame0.jpg" subset="default" task_id="391864" width="640" height="360">
+    <points label="Human" source="manual" occluded="0" points="406.60,93.38;416.38,102.46;437.35,117.83;416.38,123.42;442.24,152.77;421.35,160.45;428.26,184.91;398.29,164.65;423.37,195.39;390.53,161.85;432.52,180.02;418.55,184.21;410.10,244.30;442.24,252.68;393.33,300.19;460.40,300.19;382.85,308.58;454.11,310.67" z_order="0">
+    </points>
+    <box label="Human" source="manual" occluded="0" xtl="359.79" ytl="71.02" xbr="476.47" ybr="322.55" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="frame1.jpg" subset="default" task_id="391902" width="640" height="360">
+    <points label="Human" source="manual" occluded="0" points="407.17,90.10;416.23,100.49;429.48,117.99;413.45,124.26;432.97,156.26;414.84,161.84;424.60,184.91;398.81,165.39;420.42,195.30;391.14,164.00;428.78,182.06;414.14,183.45;427.39,243.48;400.90,244.10;472.01,291.58;399.50,303.43;475.49,302.67;392.53,311.80" z_order="0">
+    </points>
+    <box label="Human" source="manual" occluded="0" xtl="367.43" ytl="68.49" xbr="490.83" ybr="324.35" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="frame2.jpg" subset="default" task_id="391904" width="640" height="360">
+    <points label="Human" source="manual" occluded="0" points="412.75,82.43;421.81,97.07;432.97,113.73;417.63,116.59;432.27,143.08;418.33,157.03;422.51,184.91;399.50,156.26;419.02,193.28;392.53,154.87;431.57,176.48;416.93,178.64;428.09,242.78;397.41,237.13;437.15,303.43;430.18,286.63;430.88,313.82;430.18,301.97" z_order="0">
+    </points>
+  </image>
+  <image id="3" name="frame3.jpg" subset="default" task_id="391908" width="640" height="360">
+    <points label="Human" source="manual" occluded="0" points="411.35,84.45;419.02,103.35;437.85,117.29;412.05,116.59;443.42,154.17;415.54,163.23;428.09,188.33;395.32,162.54;421.81,193.98;386.95,162.54;432.27,182.75;414.14,186.31;404.38,249.05;437.15,253.17;386.26,306.22;459.46,304.13;376.50,316.61;455.28,316.61" z_order="0">
+    </points>
+    <box label="Human" source="manual" occluded="0" xtl="349.31" ytl="60.82" xbr="476.89" ybr="329.86" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="frame4.jpg" subset="default" task_id="391910" width="640" height="360">
+    <points label="Human" source="manual" occluded="0" points="417.63,81.73;428.09,97.77;445.52,109.62;423.90,112.34;447.61,154.87;422.51,161.14;437.15,187.01;405.78,162.54;432.97,194.68;396.02,163.23;439.94,180.03;419.72,182.75;433.66,250.45;411.35,253.86;476.19,290.88;415.54,311.10;482.47,302.67;409.26,322.88" z_order="0">
+    </points>
+    <box label="Human" source="manual" occluded="0" xtl="377.89" ytl="57.26" xbr="498.50" ybr="333.41" z_order="0">
+    </box>
+  </image>
+</annotations>

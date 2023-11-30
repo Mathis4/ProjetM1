@@ -1,0 +1,23 @@
+Tête
+cou
+
+Épaule gauche
+Épaule droite
+Coude gauche
+Coude droit
+Poignet gauche
+Poignet droit
+Main gauche
+Main droite
+Hanche gauche
+Hanche droite
+Genou gauche
+Genou droit
+Cheville gauche
+Cheville droite
+Pied gauche
+Pied droit
+
+
+
+20
