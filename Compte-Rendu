@@ -2,5 +2,7 @@ Compte-Rendu des réunions de Projet :
 
 
 21/10 :
-Une séance de questions/réponses sur la création d'un DataLakeHouse avec l'utilisation de Airbyte, Airflow et le stockage sur une base de données Postgres, sur des précisisons sur la librairie yolov8 pour la détection sur des images et des vidéos.
+Une séance de questions/réponses sur la création d'un DataLakeHouse avec l'utilisation de Airbyte, 
+Airflow et le stockage sur une base de données Postgres, sur des précisisons sur la librairie yolov8 
+pour la détection sur des images et des vidéos.
 Une mise au point sur la gestion du projet avec une organisation et répartition des tâches. 
