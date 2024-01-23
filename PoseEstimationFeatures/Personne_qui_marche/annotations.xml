@@ -2,150 +2,27 @@
 <annotations>
   <version>1.1</version>
   <meta>
-    <project>
-      <id>79117</id>
-      <name>ProjetM1</name>
+    <task>
+      <id>411150</id>
+      <name>Video_1</name>
+      <size>872</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
       <bugtracker></bugtracker>
-      <created>2023-11-27 13:44:45.157941+00:00</created>
-      <updated>2023-11-27 14:12:57.426590+00:00</updated>
-      <tasks>
-        <task>
-          <id>391864</id>
-          <name>human_pose_detection_001</name>
-          <size>1</size>
-          <mode>annotation</mode>
-          <overlap>0</overlap>
-          <bugtracker></bugtracker>
-          <created>2023-11-27 13:46:14.254192+00:00</created>
-          <updated>2023-11-27 13:57:28.279507+00:00</updated>
-          <subset>default</subset>
-          <start_frame>0</start_frame>
-          <stop_frame>0</stop_frame>
-          <frame_filter></frame_filter>
-          <segments>
-            <segment>
-              <id>431712</id>
-              <start>0</start>
-              <stop>0</stop>
-              <url>https://app.cvat.ai/api/jobs/431309</url>
-            </segment>
-          </segments>
-          <owner>
-            <username>boquainmathis</username>
-            <email>boquainmathis@gmail.com</email>
-          </owner>
-          <assignee></assignee>
-        </task>
-        <task>
-          <id>391902</id>
-          <name>human_pose_detection_002</name>
-          <size>1</size>
-          <mode>annotation</mode>
-          <overlap>0</overlap>
-          <bugtracker></bugtracker>
-          <created>2023-11-27 13:58:13.538171+00:00</created>
-          <updated>2023-11-27 14:04:17.464732+00:00</updated>
-          <subset>default</subset>
-          <start_frame>0</start_frame>
-          <stop_frame>0</stop_frame>
-          <frame_filter></frame_filter>
-          <segments>
-            <segment>
-              <id>431748</id>
-              <start>0</start>
-              <stop>0</stop>
-              <url>https://app.cvat.ai/api/jobs/431345</url>
-            </segment>
-          </segments>
-          <owner>
-            <username>boquainmathis</username>
-            <email>boquainmathis@gmail.com</email>
-          </owner>
-          <assignee></assignee>
-        </task>
-        <task>
-          <id>391904</id>
-          <name>human_pose_detection_003</name>
-          <size>1</size>
-          <mode>annotation</mode>
-          <overlap>0</overlap>
-          <bugtracker></bugtracker>
-          <created>2023-11-27 13:58:43.212307+00:00</created>
-          <updated>2023-11-27 14:06:07.938142+00:00</updated>
-          <subset>default</subset>
-          <start_frame>0</start_frame>
-          <stop_frame>0</stop_frame>
-          <frame_filter></frame_filter>
-          <segments>
-            <segment>
-              <id>431749</id>
-              <start>0</start>
-              <stop>0</stop>
-              <url>https://app.cvat.ai/api/jobs/431346</url>
-            </segment>
-          </segments>
-          <owner>
-            <username>boquainmathis</username>
-            <email>boquainmathis@gmail.com</email>
-          </owner>
-          <assignee></assignee>
-        </task>
-        <task>
-          <id>391908</id>
-          <name>human_pose_detection_004</name>
-          <size>1</size>
-          <mode>annotation</mode>
-          <overlap>0</overlap>
-          <bugtracker></bugtracker>
-          <created>2023-11-27 13:59:30.120334+00:00</created>
-          <updated>2023-11-27 14:10:05.576068+00:00</updated>
-          <subset>default</subset>
-          <start_frame>0</start_frame>
-          <stop_frame>0</stop_frame>
-          <frame_filter></frame_filter>
-          <segments>
-            <segment>
-              <id>431753</id>
-              <start>0</start>
-              <stop>0</stop>
-              <url>https://app.cvat.ai/api/jobs/431350</url>
-            </segment>
-          </segments>
-          <owner>
-            <username>boquainmathis</username>
-            <email>boquainmathis@gmail.com</email>
-          </owner>
-          <assignee></assignee>
-        </task>
-        <task>
-          <id>391910</id>
-          <name>human_pose_detection_005</name>
-          <size>1</size>
-          <mode>annotation</mode>
-          <overlap>0</overlap>
-          <bugtracker></bugtracker>
-          <created>2023-11-27 14:00:03.458239+00:00</created>
-          <updated>2023-11-27 14:12:58.146068+00:00</updated>
-          <subset>default</subset>
-          <start_frame>0</start_frame>
-          <stop_frame>0</stop_frame>
-          <frame_filter></frame_filter>
-          <segments>
-            <segment>
-              <id>431755</id>
-              <start>0</start>
-              <stop>0</stop>
-              <url>https://app.cvat.ai/api/jobs/431352</url>
-            </segment>
-          </segments>
-          <owner>
-            <username>boquainmathis</username>
-            <email>boquainmathis@gmail.com</email>
-          </owner>
-          <assignee></assignee>
-        </task>
-      </tasks>
-      <subsets>default</subsets>
+      <created>2023-12-11 12:53:24.887209+00:00</created>
+      <updated>2023-12-11 14:04:34.763871+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>871</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>456577</id>
+          <start>0</start>
+          <stop>871</stop>
+          <url>https://app.cvat.ai/api/jobs/456111</url>
+        </segment>
+      </segments>
       <owner>
         <username>boquainmathis</username>
         <email>boquainmathis@gmail.com</email>
@@ -153,44 +30,271 @@
       <assignee></assignee>
       <labels>
         <label>
-          <name>Human</name>
+          <name>human</name>
           <color>#c080e0</color>
           <type>any</type>
           <attributes>
           </attributes>
         </label>
       </labels>
-    </project>
-    <dumped>2023-11-27 14:28:08.847636+00:00</dumped>
+      <original_size>
+        <width>1080</width>
+        <height>1920</height>
+      </original_size>
+      <source>177081 (Original).mp4</source>
+    </task>
+    <dumped>2023-12-11 14:04:57.130580+00:00</dumped>
   </meta>
-  <image id="0" name="frame0.jpg" subset="default" task_id="391864" width="640" height="360">
-    <points label="Human" source="manual" occluded="0" points="406.60,93.38;416.38,102.46;437.35,117.83;416.38,123.42;442.24,152.77;421.35,160.45;428.26,184.91;398.29,164.65;423.37,195.39;390.53,161.85;432.52,180.02;418.55,184.21;410.10,244.30;442.24,252.68;393.33,300.19;460.40,300.19;382.85,308.58;454.11,310.67" z_order="0">
+  <track id="0" label="human" source="manual">
+    <points frame="20" keyframe="1" outside="0" occluded="0" points="340.40,954.40;341.50,988.50;286.00,1032.10;405.30,1031.40;267.80,1125.90;436.10,1119.30;252.30,1220.30;452.60,1215.00;250.80,1251.30;454.80,1234.80;310.70,1198.50;396.50,1191.90;324.00,1360.20;376.70,1366.76;343.30,1456.50;385.80,1481.60;344.30,1482.30;386.90,1509.20" z_order="0">
     </points>
-    <box label="Human" source="manual" occluded="0" xtl="359.79" ytl="71.02" xbr="476.47" ybr="322.55" z_order="0">
-    </box>
-  </image>
-  <image id="1" name="frame1.jpg" subset="default" task_id="391902" width="640" height="360">
-    <points label="Human" source="manual" occluded="0" points="407.17,90.10;416.23,100.49;429.48,117.99;413.45,124.26;432.97,156.26;414.84,161.84;424.60,184.91;398.81,165.39;420.42,195.30;391.14,164.00;428.78,182.06;414.14,183.45;427.39,243.48;400.90,244.10;472.01,291.58;399.50,303.43;475.49,302.67;392.53,311.80" z_order="0">
+    <points frame="21" keyframe="1" outside="1" occluded="0" points="340.40,954.40;341.50,988.50;286.00,1032.10;405.30,1031.40;267.80,1125.90;436.10,1119.30;252.30,1220.30;452.60,1215.00;250.80,1251.30;454.80,1234.80;310.70,1198.50;396.50,1191.90;324.00,1360.20;376.70,1366.76;343.30,1456.50;385.80,1481.60;344.30,1482.30;386.90,1509.20" z_order="0">
     </points>
-    <box label="Human" source="manual" occluded="0" xtl="367.43" ytl="68.49" xbr="490.83" ybr="324.35" z_order="0">
+  </track>
+  <track id="1" label="human" source="manual">
+    <box frame="20" keyframe="1" outside="0" occluded="0" xtl="220.00" ytl="913.16" xbr="477.30" ybr="1533.40" z_order="0">
     </box>
-  </image>
-  <image id="2" name="frame2.jpg" subset="default" task_id="391904" width="640" height="360">
-    <points label="Human" source="manual" occluded="0" points="412.75,82.43;421.81,97.07;432.97,113.73;417.63,116.59;432.27,143.08;418.33,157.03;422.51,184.91;399.50,156.26;419.02,193.28;392.53,154.87;431.57,176.48;416.93,178.64;428.09,242.78;397.41,237.13;437.15,303.43;430.18,286.63;430.88,313.82;430.18,301.97" z_order="0">
+    <box frame="21" keyframe="1" outside="1" occluded="0" xtl="220.00" ytl="913.16" xbr="477.30" ybr="1533.40" z_order="0">
+    </box>
+  </track>
+  <track id="2" label="human" source="manual">
+    <points frame="40" keyframe="1" outside="0" occluded="0" points="328.84,959.68;328.84,990.69;272.64,1033.33;396.67,1037.20;253.26,1118.60;408.30,1118.60;251.32,1196.13;425.74,1221.32;259.07,1211.63;429.62,1248.45;293.95,1182.56;371.48,1180.62;321.09,1335.67;365.66,1333.73;340.47,1475.21;330.78,1504.28;359.80,1473.30;359.80,1492.60" z_order="0">
     </points>
-    <box label="Human" source="manual" occluded="0" xtl="367.43" ytl="68.49" xbr="490.83" ybr="324.35" z_order="0">
-    </box>
-  </image>
-  <image id="3" name="frame3.jpg" subset="default" task_id="391908" width="640" height="360">
-    <points label="Human" source="manual" occluded="0" points="411.35,84.45;419.02,103.35;437.85,117.29;412.05,116.59;443.42,154.17;415.54,163.23;428.09,188.33;395.32,162.54;421.81,193.98;386.95,162.54;432.27,182.75;414.14,186.31;404.38,249.05;437.15,253.17;386.26,306.22;459.46,304.13;376.50,316.61;455.28,316.61" z_order="0">
+    <points frame="41" keyframe="1" outside="1" occluded="0" points="328.84,959.68;328.84,990.69;272.64,1033.33;396.67,1037.20;253.26,1118.60;408.30,1118.60;251.32,1196.13;425.74,1221.32;259.07,1211.63;429.62,1248.45;293.95,1182.56;371.48,1180.62;321.09,1335.67;365.66,1333.73;340.47,1475.21;330.78,1504.28;359.80,1473.30;359.80,1492.60" z_order="0">
     </points>
-    <box label="Human" source="manual" occluded="0" xtl="349.31" ytl="60.82" xbr="476.89" ybr="329.86" z_order="0">
+  </track>
+  <track id="3" label="human" source="manual">
+    <box frame="40" keyframe="1" outside="0" occluded="0" xtl="231.70" ytl="923.80" xbr="445.10" ybr="1528.70" z_order="0">
     </box>
-  </image>
-  <image id="4" name="frame4.jpg" subset="default" task_id="391910" width="640" height="360">
-    <points label="Human" source="manual" occluded="0" points="417.63,81.73;428.09,97.77;445.52,109.62;423.90,112.34;447.61,154.87;422.51,161.14;437.15,187.01;405.78,162.54;432.97,194.68;396.02,163.23;439.94,180.03;419.72,182.75;433.66,250.45;411.35,253.86;476.19,290.88;415.54,311.10;482.47,302.67;409.26,322.88" z_order="0">
+    <box frame="41" keyframe="1" outside="1" occluded="0" xtl="231.70" ytl="923.80" xbr="445.10" ybr="1528.70" z_order="0">
+    </box>
+  </track>
+  <track id="4" label="human" source="manual">
+    <box frame="60" keyframe="1" outside="0" occluded="0" xtl="235.10" ytl="934.10" xbr="430.30" ybr="1513.60" z_order="0">
+    </box>
+    <box frame="61" keyframe="1" outside="1" occluded="0" xtl="235.10" ytl="934.10" xbr="430.30" ybr="1513.60" z_order="0">
+    </box>
+  </track>
+  <track id="5" label="human" source="manual">
+    <points frame="60" keyframe="1" outside="0" occluded="0" points="331.90,972.60;333.00,1000.90;273.60,1050.30;389.00,1055.40;255.40,1134.40;410.10,1141.40;251.50,1215.30;418.90,1233.20;252.00,1242.40;419.10,1255.00;294.40,1203.20;368.60,1206.30;292.20,1337.70;352.70,1344.30;317.30,1414.70;342.40,1451.40;314.50,1456.00;345.40,1479.00" z_order="0">
     </points>
-    <box label="Human" source="manual" occluded="0" xtl="377.89" ytl="57.26" xbr="498.50" ybr="333.41" z_order="0">
+    <points frame="61" keyframe="1" outside="1" occluded="0" points="331.90,972.60;333.00,1000.90;273.60,1050.30;389.00,1055.40;255.40,1134.40;410.10,1141.40;251.50,1215.30;418.90,1233.20;252.00,1242.40;419.10,1255.00;294.40,1203.20;368.60,1206.30;292.20,1337.70;352.70,1344.30;317.30,1414.70;342.40,1451.40;314.50,1456.00;345.40,1479.00" z_order="0">
+    </points>
+  </track>
+  <track id="6" label="human" source="manual">
+    <points frame="80" keyframe="1" outside="0" occluded="0" points="306.91,992.95;308.01,1021.25;258.30,1072.70;373.80,1073.90;245.90,1158.70;392.90,1159.80;230.40,1235.70;401.70,1230.30;229.00,1257.00;400.00,1252.10;286.90,1208.10;347.51,1207.35;296.30,1354.30;349.10,1358.80;296.20,1446.70;340.80,1465.90;297.40,1470.60;347.60,1483.90" z_order="0">
+    </points>
+    <points frame="81" keyframe="1" outside="1" occluded="0" points="306.91,992.95;308.01,1021.25;258.30,1072.70;373.80,1073.90;245.90,1158.70;392.90,1159.80;230.40,1235.70;401.70,1230.30;229.00,1257.00;400.00,1252.10;286.90,1208.10;347.51,1207.35;296.30,1354.30;349.10,1358.80;296.20,1446.70;340.80,1465.90;297.40,1470.60;347.60,1483.90" z_order="0">
+    </points>
+  </track>
+  <track id="7" label="human" source="manual">
+    <box frame="80" keyframe="1" outside="0" occluded="0" xtl="212.56" ytl="968.98" xbr="419.93" ybr="1507.77" z_order="0">
     </box>
-  </image>
+    <box frame="81" keyframe="1" outside="1" occluded="0" xtl="212.56" ytl="968.98" xbr="419.93" ybr="1507.77" z_order="0">
+    </box>
+  </track>
+  <track id="8" label="human" source="manual">
+    <box frame="100" keyframe="1" outside="0" occluded="0" xtl="218.37" ytl="968.98" xbr="404.42" ybr="1503.89" z_order="0">
+    </box>
+    <box frame="101" keyframe="1" outside="1" occluded="0" xtl="218.37" ytl="968.98" xbr="404.42" ybr="1503.89" z_order="0">
+    </box>
+  </track>
+  <track id="9" label="human" source="manual">
+    <points frame="100" keyframe="1" outside="0" occluded="0" points="301.00,1000.70;302.10,1027.00;250.41,1066.86;358.20,1075.80;238.01,1152.86;377.30,1160.00;232.20,1229.90;389.90,1238.00;234.70,1251.20;390.20,1257.90;279.00,1208.10;339.60,1209.30;288.41,1348.46;341.21,1352.96;303.70,1458.80;332.91,1460.06;298.10,1480.70;335.60,1479.00" z_order="0">
+    </points>
+    <points frame="101" keyframe="1" outside="1" occluded="0" points="301.00,1000.70;302.10,1027.00;250.41,1066.86;358.20,1075.80;238.01,1152.86;377.30,1160.00;232.20,1229.90;389.90,1238.00;234.70,1251.20;390.20,1257.90;279.00,1208.10;339.60,1209.30;288.41,1348.46;341.21,1352.96;303.70,1458.80;332.91,1460.06;298.10,1480.70;335.60,1479.00" z_order="0">
+    </points>
+  </track>
+  <track id="10" label="human" source="manual">
+    <box frame="120" keyframe="1" outside="0" occluded="0" xtl="227.88" ytl="992.67" xbr="400.14" ybr="1500.88" z_order="0">
+    </box>
+    <box frame="121" keyframe="1" outside="1" occluded="0" xtl="227.88" ytl="992.67" xbr="400.14" ybr="1500.88" z_order="0">
+    </box>
+  </track>
+  <track id="11" label="human" source="manual">
+    <points frame="120" keyframe="1" outside="0" occluded="0" points="316.20,1022.20;314.10,1049.60;260.22,1089.47;365.90,1094.10;241.40,1166.90;376.40,1175.10;246.30,1226.80;387.90,1256.30;250.90,1243.90;388.20,1276.20;277.00,1224.30;348.30,1221.20;283.20,1353.90;338.20,1356.30;297.50,1432.20;321.30,1447.40;297.20,1469.10;329.40,1471.70" z_order="0">
+    </points>
+    <points frame="121" keyframe="1" outside="1" occluded="0" points="316.20,1022.20;314.10,1049.60;260.22,1089.47;365.90,1094.10;241.40,1166.90;376.40,1175.10;246.30,1226.80;387.90,1256.30;250.90,1243.90;388.20,1276.20;277.00,1224.30;348.30,1221.20;283.20,1353.90;338.20,1356.30;297.50,1432.20;321.30,1447.40;297.20,1469.10;329.40,1471.70" z_order="0">
+    </points>
+  </track>
+  <track id="12" label="human" source="manual">
+    <points frame="140" keyframe="1" outside="0" occluded="0" points="314.90,1024.70;313.89,1048.84;265.20,1092.30;365.69,1093.34;251.50,1167.40;383.70,1180.80;236.40,1246.40;393.00,1242.70;236.80,1269.90;393.30,1260.50;283.20,1221.40;348.09,1220.44;293.70,1349.90;337.99,1355.54;297.30,1447.50;326.40,1457.30;296.99,1468.34;329.20,1476.30" z_order="0">
+    </points>
+    <points frame="141" keyframe="1" outside="1" occluded="0" points="314.90,1024.70;313.89,1048.84;265.20,1092.30;365.69,1093.34;251.50,1167.40;383.70,1180.80;236.40,1246.40;393.00,1242.70;236.80,1269.90;393.30,1260.50;283.20,1221.40;348.09,1220.44;293.70,1349.90;337.99,1355.54;297.30,1447.50;326.40,1457.30;296.99,1468.34;329.20,1476.30" z_order="0">
+    </points>
+  </track>
+  <track id="13" label="human" source="manual">
+    <box frame="140" keyframe="1" outside="0" occluded="0" xtl="223.60" ytl="1000.15" xbr="406.56" ybr="1489.11" z_order="0">
+    </box>
+    <box frame="141" keyframe="1" outside="1" occluded="0" xtl="223.60" ytl="1000.15" xbr="406.56" ybr="1489.11" z_order="0">
+    </box>
+  </track>
+  <track id="14" label="human" source="manual">
+    <box frame="160" keyframe="1" outside="0" occluded="0" xtl="223.50" ytl="1012.50" xbr="407.89" ybr="1484.86" z_order="0">
+    </box>
+    <box frame="161" keyframe="1" outside="1" occluded="0" xtl="223.50" ytl="1012.50" xbr="407.89" ybr="1484.86" z_order="0">
+    </box>
+  </track>
+  <track id="15" label="human" source="manual">
+    <points frame="160" keyframe="1" outside="0" occluded="0" points="305.60,1039.70;306.00,1065.20;261.30,1114.00;356.40,1105.60;248.90,1182.40;379.80,1189.07;237.90,1258.70;389.10,1250.97;239.60,1278.20;389.40,1268.77;284.70,1229.70;342.80,1227.40;299.20,1358.20;350.20,1358.40;310.90,1438.30;341.30,1440.00;311.90,1459.10;344.10,1460.30" z_order="0">
+    </points>
+    <points frame="161" keyframe="1" outside="1" occluded="0" points="305.60,1039.70;306.00,1065.20;261.30,1114.00;356.40,1105.60;248.90,1182.40;379.80,1189.07;237.90,1258.70;389.10,1250.97;239.60,1278.20;389.40,1268.77;284.70,1229.70;342.80,1227.40;299.20,1358.20;350.20,1358.40;310.90,1438.30;341.30,1440.00;311.90,1459.10;344.10,1460.30" z_order="0">
+    </points>
+  </track>
+  <track id="16" label="human" source="manual">
+    <box frame="180" keyframe="1" outside="0" occluded="0" xtl="236.96" ytl="1038.03" xbr="403.85" ybr="1482.17" z_order="0">
+    </box>
+    <box frame="181" keyframe="1" outside="1" occluded="0" xtl="236.96" ytl="1038.03" xbr="403.85" ybr="1482.17" z_order="0">
+    </box>
+  </track>
+  <track id="17" label="human" source="manual">
+    <points frame="180" keyframe="1" outside="0" occluded="0" points="323.20,1058.70;320.40,1085.00;273.40,1118.20;360.70,1116.80;254.00,1192.10;377.10,1202.70;268.70,1236.50;388.00,1267.70;280.50,1248.90;389.00,1285.50;282.80,1236.30;346.30,1241.80;303.50,1357.80;341.30,1354.80;313.70,1448.80;340.20,1448.90;313.10,1471.90;341.40,1462.20" z_order="0">
+    </points>
+    <points frame="181" keyframe="1" outside="1" occluded="0" points="323.20,1058.70;320.40,1085.00;273.40,1118.20;360.70,1116.80;254.00,1192.10;377.10,1202.70;268.70,1236.50;388.00,1267.70;280.50,1248.90;389.00,1285.50;282.80,1236.30;346.30,1241.80;303.50,1357.80;341.30,1354.80;313.70,1448.80;340.20,1448.90;313.10,1471.90;341.40,1462.20" z_order="0">
+    </points>
+  </track>
+  <track id="18" label="human" source="manual">
+    <points frame="200" keyframe="1" outside="0" occluded="0" points="331.00,1061.40;329.80,1083.80;284.80,1122.00;377.13,1121.05;269.60,1190.40;388.80,1187.40;257.70,1259.20;402.00,1259.40;257.20,1276.50;403.90,1278.80;299.20,1251.40;358.10,1249.10;303.60,1352.60;349.90,1354.40;314.50,1435.80;337.90,1453.90;310.80,1455.10;339.90,1468.00" z_order="0">
+    </points>
+    <points frame="201" keyframe="1" outside="1" occluded="0" points="331.00,1061.40;329.80,1083.80;284.80,1122.00;377.13,1121.05;269.60,1190.40;388.80,1187.40;257.70,1259.20;402.00,1259.40;257.20,1276.50;403.90,1278.80;299.20,1251.40;358.10,1249.10;303.60,1352.60;349.90,1354.40;314.50,1435.80;337.90,1453.90;310.80,1455.10;339.90,1468.00" z_order="0">
+    </points>
+  </track>
+  <track id="19" label="human" source="manual">
+    <box frame="200" keyframe="1" outside="0" occluded="0" xtl="246.54" ytl="1037.44" xbr="414.78" ybr="1482.32" z_order="0">
+    </box>
+    <box frame="201" keyframe="1" outside="1" occluded="0" xtl="246.54" ytl="1037.44" xbr="414.78" ybr="1482.32" z_order="0">
+    </box>
+  </track>
+  <track id="20" label="human" source="manual">
+    <box frame="220" keyframe="1" outside="0" occluded="0" xtl="243.59" ytl="1060.81" xbr="421.25" ybr="1484.76" z_order="0">
+    </box>
+    <box frame="221" keyframe="1" outside="1" occluded="0" xtl="243.59" ytl="1060.81" xbr="421.25" ybr="1484.76" z_order="0">
+    </box>
+  </track>
+  <track id="21" label="human" source="manual">
+    <points frame="220" keyframe="1" outside="0" occluded="0" points="324.70,1080.70;326.30,1102.10;285.94,1132.86;367.10,1132.80;270.74,1201.26;389.94,1198.26;258.84,1270.06;406.90,1260.00;258.34,1287.36;410.70,1275.60;302.20,1257.60;360.20,1255.30;315.00,1364.40;357.60,1365.30;326.90,1433.60;340.90,1449.80;326.90,1449.10;342.90,1468.60" z_order="0">
+    </points>
+    <points frame="221" keyframe="1" outside="1" occluded="0" points="324.70,1080.70;326.30,1102.10;285.94,1132.86;367.10,1132.80;270.74,1201.26;389.94,1198.26;258.84,1270.06;406.90,1260.00;258.34,1287.36;410.70,1275.60;302.20,1257.60;360.20,1255.30;315.00,1364.40;357.60,1365.30;326.90,1433.60;340.90,1449.80;326.90,1449.10;342.90,1468.60" z_order="0">
+    </points>
+  </track>
+  <track id="22" label="human" source="manual">
+    <box frame="240" keyframe="1" outside="0" occluded="0" xtl="257.10" ytl="1060.18" xbr="407.80" ybr="1480.10" z_order="0">
+    </box>
+    <box frame="241" keyframe="1" outside="1" occluded="0" xtl="257.10" ytl="1060.18" xbr="407.80" ybr="1480.10" z_order="0">
+    </box>
+  </track>
+  <track id="23" label="human" source="manual">
+    <points frame="240" keyframe="1" outside="0" occluded="0" points="332.20,1082.50;330.01,1101.14;289.66,1131.90;370.80,1135.60;274.46,1200.30;387.10,1211.30;277.50,1247.60;396.60,1269.30;281.70,1258.40;394.80,1281.20;304.00,1247.30;362.00,1246.90;324.30,1358.80;357.60,1361.50;329.70,1448.50;355.80,1438.60;327.80,1465.00;356.90,1456.40" z_order="0">
+    </points>
+    <points frame="241" keyframe="1" outside="1" occluded="0" points="332.20,1082.50;330.01,1101.14;289.66,1131.90;370.80,1135.60;274.46,1200.30;387.10,1211.30;277.50,1247.60;396.60,1269.30;281.70,1258.40;394.80,1281.20;304.00,1247.30;362.00,1246.90;324.30,1358.80;357.60,1361.50;329.70,1448.50;355.80,1438.60;327.80,1465.00;356.90,1456.40" z_order="0">
+    </points>
+  </track>
+  <track id="24" label="human" source="manual">
+    <box frame="260" keyframe="1" outside="0" occluded="0" xtl="270.51" ytl="1066.20" xbr="419.90" ybr="1474.00" z_order="0">
+    </box>
+    <box frame="261" keyframe="1" outside="1" occluded="0" xtl="270.51" ytl="1066.20" xbr="419.90" ybr="1474.00" z_order="0">
+    </box>
+  </track>
+  <track id="25" label="human" source="manual">
+    <points frame="260" keyframe="1" outside="0" occluded="0" points="346.12,1088.98;346.70,1112.30;303.58,1138.38;384.72,1142.08;288.38,1206.78;396.30,1224.30;283.00,1267.20;406.80,1275.80;286.30,1278.90;408.70,1292.40;316.10,1260.30;372.20,1259.90;318.60,1350.30;360.30,1364.20;325.90,1398.90;348.20,1445.10;322.10,1436.00;349.30,1458.20" z_order="0">
+    </points>
+    <points frame="261" keyframe="1" outside="1" occluded="0" points="346.12,1088.98;346.70,1112.30;303.58,1138.38;384.72,1142.08;288.38,1206.78;396.30,1224.30;283.00,1267.20;406.80,1275.80;286.30,1278.90;408.70,1292.40;316.10,1260.30;372.20,1259.90;318.60,1350.30;360.30,1364.20;325.90,1398.90;348.20,1445.10;322.10,1436.00;349.30,1458.20" z_order="0">
+    </points>
+  </track>
+  <track id="26" label="human" source="manual">
+    <box frame="280" keyframe="1" outside="0" occluded="0" xtl="269.84" ytl="1082.21" xbr="436.73" ybr="1464.44" z_order="0">
+    </box>
+    <box frame="281" keyframe="1" outside="1" occluded="0" xtl="269.84" ytl="1082.21" xbr="436.73" ybr="1464.44" z_order="0">
+    </box>
+  </track>
+  <track id="27" label="human" source="manual">
+    <points frame="280" keyframe="1" outside="0" occluded="0" points="349.72,1104.97;350.30,1128.29;314.70,1160.90;388.32,1158.07;300.40,1218.10;412.10,1224.40;283.80,1278.50;421.60,1261.90;285.20,1294.90;425.40,1275.70;324.40,1276.30;379.50,1273.10;341.80,1364.40;363.00,1363.40;346.40,1436.40;349.90,1444.30;357.50,1448.20;352.00,1459.20" z_order="0">
+    </points>
+    <points frame="281" keyframe="1" outside="1" occluded="0" points="349.72,1104.97;350.30,1128.29;314.70,1160.90;388.32,1158.07;300.40,1218.10;412.10,1224.40;283.80,1278.50;421.60,1261.90;285.20,1294.90;425.40,1275.70;324.40,1276.30;379.50,1273.10;341.80,1364.40;363.00,1363.40;346.40,1436.40;349.90,1444.30;357.50,1448.20;352.00,1459.20" z_order="0">
+    </points>
+  </track>
+  <track id="28" label="human" source="manual">
+    <box frame="300" keyframe="1" outside="0" occluded="0" xtl="295.41" ytl="1084.90" xbr="435.38" ybr="1469.83" z_order="0">
+    </box>
+    <box frame="301" keyframe="1" outside="1" occluded="0" xtl="295.41" ytl="1084.90" xbr="435.38" ybr="1469.83" z_order="0">
+    </box>
+  </track>
+  <track id="29" label="human" source="manual">
+    <points frame="300" keyframe="1" outside="0" occluded="0" points="360.00,1107.80;359.60,1130.20;320.30,1160.00;396.74,1157.13;310.70,1214.40;410.20,1225.30;308.10,1275.70;423.50,1278.70;308.60,1289.30;424.50,1295.30;328.11,1275.35;384.21,1274.95;354.00,1365.40;392.00,1361.50;362.20,1446.70;387.30,1433.10;359.30,1459.50;388.40,1449.00" z_order="0">
+    </points>
+    <points frame="301" keyframe="1" outside="1" occluded="0" points="360.00,1107.80;359.60,1130.20;320.30,1160.00;396.74,1157.13;310.70,1214.40;410.20,1225.30;308.10,1275.70;423.50,1278.70;308.60,1289.30;424.50,1295.30;328.11,1275.35;384.21,1274.95;354.00,1365.40;392.00,1361.50;362.20,1446.70;387.30,1433.10;359.30,1459.50;388.40,1449.00" z_order="0">
+    </points>
+  </track>
+  <track id="30" label="human" source="manual">
+    <box frame="320" keyframe="1" outside="0" occluded="0" xtl="313.50" ytl="1099.71" xbr="442.11" ybr="1467.10" z_order="0">
+    </box>
+    <box frame="321" keyframe="1" outside="1" occluded="0" xtl="313.50" ytl="1099.71" xbr="442.11" ybr="1467.10" z_order="0">
+    </box>
+  </track>
+  <track id="31" label="human" source="manual">
+    <points frame="320" keyframe="1" outside="0" occluded="0" points="377.70,1123.10;376.40,1147.30;338.00,1172.50;409.79,1172.41;323.76,1229.67;419.50,1238.70;331.40,1277.00;430.00,1294.00;336.60,1287.80;430.10,1310.60;346.70,1268.20;396.30,1272.50;350.20,1361.00;396.60,1366.50;361.20,1420.80;386.30,1434.40;362.10,1438.30;386.50,1449.30" z_order="0">
+    </points>
+    <points frame="321" keyframe="1" outside="1" occluded="0" points="377.70,1123.10;376.40,1147.30;338.00,1172.50;409.79,1172.41;323.76,1229.67;419.50,1238.70;331.40,1277.00;430.00,1294.00;336.60,1287.80;430.10,1310.60;346.70,1268.20;396.30,1272.50;350.20,1361.00;396.60,1366.50;361.20,1420.80;386.30,1434.40;362.10,1438.30;386.50,1449.30" z_order="0">
+    </points>
+  </track>
+  <track id="32" label="human" source="manual">
+    <box frame="340" keyframe="1" outside="0" occluded="0" xtl="312.06" ytl="1103.61" xbr="453.19" ybr="1466.25" z_order="0">
+    </box>
+    <box frame="341" keyframe="1" outside="1" occluded="0" xtl="312.06" ytl="1103.61" xbr="453.19" ybr="1466.25" z_order="0">
+    </box>
+  </track>
+  <track id="33" label="human" source="manual">
+    <points frame="340" keyframe="1" outside="0" occluded="0" points="378.30,1125.50;379.80,1145.10;341.40,1175.90;412.20,1173.00;330.90,1235.90;430.30,1229.00;323.50,1292.50;442.70,1274.90;325.90,1305.20;442.80,1287.80;352.90,1268.80;401.50,1267.50;366.60,1367.20;393.40,1365.20;370.20,1424.20;386.90,1435.00;372.00,1440.70;386.13,1447.07" z_order="0">
+    </points>
+    <points frame="341" keyframe="1" outside="1" occluded="0" points="378.30,1125.50;379.80,1145.10;341.40,1175.90;412.20,1173.00;330.90,1235.90;430.30,1229.00;323.50,1292.50;442.70,1274.90;325.90,1305.20;442.80,1287.80;352.90,1268.80;401.50,1267.50;366.60,1367.20;393.40,1365.20;370.20,1424.20;386.90,1435.00;372.00,1440.70;386.13,1447.07" z_order="0">
+    </points>
+  </track>
+  <track id="34" label="human" source="manual">
+    <box frame="360" keyframe="1" outside="0" occluded="0" xtl="318.60" ytl="1111.08" xbr="452.26" ybr="1465.31" z_order="0">
+    </box>
+    <box frame="361" keyframe="1" outside="1" occluded="0" xtl="318.60" ytl="1111.08" xbr="452.26" ybr="1465.31" z_order="0">
+    </box>
+  </track>
+  <track id="35" label="human" source="manual">
+    <points frame="360" keyframe="1" outside="0" occluded="0" points="379.20,1130.70;378.80,1154.00;344.20,1178.30;410.28,1174.42;333.70,1238.30;427.40,1236.00;321.58,1293.92;440.80,1288.50;323.98,1306.62;442.70,1304.20;356.60,1273.00;404.30,1272.70;364.68,1368.62;407.30,1361.90;377.60,1439.60;397.10,1434.60;377.60,1454.30;399.20,1448.50" z_order="0">
+    </points>
+    <points frame="361" keyframe="1" outside="1" occluded="0" points="379.20,1130.70;378.80,1154.00;344.20,1178.30;410.28,1174.42;333.70,1238.30;427.40,1236.00;321.58,1293.92;440.80,1288.50;323.98,1306.62;442.70,1304.20;356.60,1273.00;404.30,1272.70;364.68,1368.62;407.30,1361.90;377.60,1439.60;397.10,1434.60;377.60,1454.30;399.20,1448.50" z_order="0">
+    </points>
+  </track>
+  <track id="36" label="human" source="manual">
+    <box frame="380" keyframe="1" outside="0" occluded="0" xtl="331.69" ytl="1122.30" xbr="447.58" ybr="1456.90" z_order="0">
+    </box>
+    <box frame="381" keyframe="1" outside="1" occluded="0" xtl="331.69" ytl="1122.30" xbr="447.58" ybr="1456.90" z_order="0">
+    </box>
+  </track>
+  <track id="37" label="human" source="manual">
+    <points frame="380" keyframe="1" outside="0" occluded="0" points="390.44,1136.19;391.00,1159.50;355.44,1183.79;418.70,1187.40;344.00,1243.80;432.10,1251.70;351.50,1276.00;436.20,1300.50;355.70,1283.10;438.10,1312.50;367.80,1275.70;411.80,1274.50;375.90,1368.50;407.30,1363.70;378.60,1433.90;403.70,1437.30;376.70,1451.40;409.50,1448.40" z_order="0">
+    </points>
+    <points frame="381" keyframe="1" outside="1" occluded="0" points="390.44,1136.19;391.00,1159.50;355.44,1183.79;418.70,1187.40;344.00,1243.80;432.10,1251.70;351.50,1276.00;436.20,1300.50;355.70,1283.10;438.10,1312.50;367.80,1275.70;411.80,1274.50;375.90,1368.50;407.30,1363.70;378.60,1433.90;403.70,1437.30;376.70,1451.40;409.50,1448.40" z_order="0">
+    </points>
+  </track>
+  <track id="38" label="human" source="manual">
+    <box frame="400" keyframe="1" outside="0" occluded="0" xtl="337.30" ytl="1123.24" xbr="470.95" ybr="1460.64" z_order="0">
+    </box>
+    <box frame="401" keyframe="1" outside="1" occluded="0" xtl="337.30" ytl="1123.24" xbr="470.95" ybr="1460.64" z_order="0">
+    </box>
+  </track>
+  <track id="39" label="human" source="manual">
+    <points frame="400" keyframe="1" outside="0" occluded="0" points="405.85,1135.71;406.41,1159.02;370.85,1183.31;434.10,1184.10;357.50,1236.80;451.30,1247.50;348.20,1292.30;460.00,1290.70;348.70,1306.90;461.90,1305.50;381.30,1277.10;426.30,1275.00;387.60,1360.50;414.30,1363.20;390.30,1418.50;404.20,1435.00;388.40,1436.00;406.20,1446.10" z_order="0">
+    </points>
+    <points frame="401" keyframe="1" outside="1" occluded="0" points="405.85,1135.71;406.41,1159.02;370.85,1183.31;434.10,1184.10;357.50,1236.80;451.30,1247.50;348.20,1292.30;460.00,1290.70;348.70,1306.90;461.90,1305.50;381.30,1277.10;426.30,1275.00;387.60,1360.50;414.30,1363.20;390.30,1418.50;404.20,1435.00;388.40,1436.00;406.20,1446.10" z_order="0">
+    </points>
+  </track>
+  <track id="40" label="human" source="manual">
+    <box frame="0" keyframe="1" outside="0" occluded="0" xtl="238.00" ytl="874.37" xbr="501.92" ybr="1540.76" z_order="0">
+    </box>
+    <box frame="1" keyframe="1" outside="1" occluded="0" xtl="238.00" ytl="874.37" xbr="501.92" ybr="1540.76" z_order="0">
+    </box>
+  </track>
+  <track id="41" label="human" source="manual">
+    <points frame="0" keyframe="1" outside="0" occluded="0" points="365.24,913.20;365.24,946.19;302.56,992.37;431.22,992.37;279.46,1084.74;454.31,1091.34;262.97,1203.51;467.51,1203.51;262.97,1226.60;470.80,1226.60;319.05,1170.52;411.42,1163.92;328.95,1328.87;404.83,1342.06;342.14,1460.83;391.63,1483.92;335.55,1497.11;388.33,1516.91" z_order="0">
+    </points>
+    <points frame="1" keyframe="1" outside="1" occluded="0" points="365.24,913.20;365.24,946.19;302.56,992.37;431.22,992.37;279.46,1084.74;454.31,1091.34;262.97,1203.51;467.51,1203.51;262.97,1226.60;470.80,1226.60;319.05,1170.52;411.42,1163.92;328.95,1328.87;404.83,1342.06;342.14,1460.83;391.63,1483.92;335.55,1497.11;388.33,1516.91" z_order="0">
+    </points>
+  </track>
 </annotations>
