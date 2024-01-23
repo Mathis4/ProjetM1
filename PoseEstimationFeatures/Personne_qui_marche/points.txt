@@ -18,6 +18,4 @@ Cheville droite
 Pied gauche
 Pied droit
 
-
-
-20
+18
