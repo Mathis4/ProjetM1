@@ -1,0 +1,10 @@
+trello :
+-user stories utilisateur
+
+diagrammes cas dutilisation + activité + architecture
+
+
+Question : 
+
+-cas d'utilisation
+- pré traitement des données 
